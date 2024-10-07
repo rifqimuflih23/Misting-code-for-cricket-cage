@@ -8,14 +8,14 @@
 #include <addons/TokenHelper.h>
 
 // Define WiFi credentials
-#define WIFI_SSID "hotspot"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Define Firebase API Key, Project ID, and user credentials
-#define API_KEY "AIzaSyAKXkUnNpGEdCGpW62LRsHG63xuuqu0ZjE"
-#define FIREBASE_PROJECT_ID "kandang-bisa"
-#define USER_EMAIL "rifqi23muflih@gmail.com"
-#define USER_PASSWORD "12345678"
+#define API_KEY ""
+#define FIREBASE_PROJECT_ID ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Define Firebase Data object, Firebase authentication, and configuration
 FirebaseData fbdo;
